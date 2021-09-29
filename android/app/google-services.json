@@ -1,0 +1,220 @@
+{
+  "project_info": {
+    "project_number": "1039551009284",
+    "firebase_url": "https://standardgroupall.firebaseio.com",
+    "project_id": "standardgroupall",
+    "storage_bucket": "standardgroupall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039551009284:android:1e197335b6c5ea852e5b51",
+        "android_client_info": {
+          "package_name": "ke.co.group.standard.standardepaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039551009284-qn5qt2bu36p34b8gnir9eo4r0qbevem2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ke.co.group.standard.standardepaper",
+            "certificate_hash": "355b79247be1846c5d3d44d9341af28e08ebcce8"
+          }
+        },
+        {
+          "client_id": "1039551009284-sr0cn4kgm06ams17q7kqo1cv1h2095er.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ke.co.group.standard.standardepaper",
+            "certificate_hash": "af1d6d1ba56bfcb77984c7755ca18cc59102e171"
+          }
+        },
+        {
+          "client_id": "1039551009284-mqqglk39sorr7gem4pe21k99pcu7v7fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK11drHvV6o1J7mqvSdQsORDHGiMXdQAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039551009284-m4c1a7t8mkdjjgm6mt2hqltj84mumlnt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1039551009284-1gmardp7f2gavcnqnkvnsh3cq1etuga8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ke.co.standardmedia.vybezradio"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039551009284:android:1f4820c0216062b3",
+        "android_client_info": {
+          "package_name": "ke.co.group.standard.thestandardkenya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039551009284-6vncr1g8odki1p738thfmg7v18ld5ebd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ke.co.group.standard.thestandardkenya",
+            "certificate_hash": "355b79247be1846c5d3d44d9341af28e08ebcce8"
+          }
+        },
+        {
+          "client_id": "1039551009284-hebrq7q3c4v4rofts15rsfihv3bu13eg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ke.co.group.standard.thestandardkenya",
+            "certificate_hash": "f92718ea01c1d93468ae4b9323cae180bdf5e1a1"
+          }
+        },
+        {
+          "client_id": "1039551009284-pcbqmeig9r1ha08im7lbdlt30na62mv1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ke.co.group.standard.thestandardkenya",
+            "certificate_hash": "0552771afc2a4d4b0ec69c589e83f17adac99b79"
+          }
+        },
+        {
+          "client_id": "1039551009284-mqqglk39sorr7gem4pe21k99pcu7v7fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK11drHvV6o1J7mqvSdQsORDHGiMXdQAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039551009284-m4c1a7t8mkdjjgm6mt2hqltj84mumlnt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1039551009284-1gmardp7f2gavcnqnkvnsh3cq1etuga8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ke.co.standardmedia.vybezradio"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-2136982374428252~1214129386"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039551009284:android:11c8f7692cc951762e5b51",
+        "android_client_info": {
+          "package_name": "ke.co.standardmedia.epaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039551009284-utifign6dp5deetalpv97foj35ooa115.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ke.co.standardmedia.epaper",
+            "certificate_hash": "ff8ef5e6c474529b75bb1c019d56db11db25acf8"
+          }
+        },
+        {
+          "client_id": "1039551009284-mqqglk39sorr7gem4pe21k99pcu7v7fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK11drHvV6o1J7mqvSdQsORDHGiMXdQAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039551009284-m4c1a7t8mkdjjgm6mt2hqltj84mumlnt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1039551009284-1gmardp7f2gavcnqnkvnsh3cq1etuga8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ke.co.standardmedia.vybezradio"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039551009284:android:4b3d00ac311afa6d2e5b51",
+        "android_client_info": {
+          "package_name": "ke.co.standardmedia.vybez_radio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039551009284-fjpo64q7rpqcovk2h5hblvdtbtmm585v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ke.co.standardmedia.vybez_radio",
+            "certificate_hash": "1c570d535f4673de949d9afb077df1d3f0224544"
+          }
+        },
+        {
+          "client_id": "1039551009284-te53ljrjb7phi5n8c0a2684moqabveqa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ke.co.standardmedia.vybez_radio",
+            "certificate_hash": "9f972c3df2fc00b38f68a0a10253d6e0ea74010b"
+          }
+        },
+        {
+          "client_id": "1039551009284-mqqglk39sorr7gem4pe21k99pcu7v7fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK11drHvV6o1J7mqvSdQsORDHGiMXdQAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039551009284-m4c1a7t8mkdjjgm6mt2hqltj84mumlnt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1039551009284-1gmardp7f2gavcnqnkvnsh3cq1etuga8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ke.co.standardmedia.vybezradio"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
